@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNitishroy
 - 👀 I’m interested in Coding and IOT learning.
 - 🌱 I’m currently learning B.tech-Electronic and Comunication.
-- 📫 How to reach me by email-Mr.nitishkrs@gmail.com
+- 📫 How to reach me by email - Mr.nitishkrs@gmail.com
 - 👀 My Website is https://nitishroy7033.blogspot.com/
 - 👀 My Arduino site is https://coderoom30.blogspot.com/
 <!---
