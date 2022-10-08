@@ -31,7 +31,7 @@
 
 ---
 
-### Blogs posts
+### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with MongoDB &amp; Mongoose](https://codesikhe.com/connect-mongodb-in-dotnet-rest-api-and-curd-operation-in-rest-api/)
 - [C Programming Tutorial 📖 ](https://codesikhe.com/c/)
@@ -57,7 +57,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Nitishroy7033"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nitishroy7033" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnitishroy&show_icons=true&locale=en&layout=compact" alt="mrnitishroy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnitishroy&show_icons=true&locale=en&layout=compact" alt="mrnitishroy" height="100" width="210" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnitishroy&show_icons=true&locale=en" alt="mrnitishroy" /></p>
 
