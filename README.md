@@ -8,7 +8,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full stack Web developer , Android developer , IOT Engineer, and Gammer!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -89,7 +89,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
 2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -107,13 +107,11 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://Codesikhe.com
+[course]: http://Codesikhe.com
+[twitter]: https://twitter.com/Nitishroy7033
+[youtube]: https://www.youtube.com/channel/UCSbFvHqGvxwyGsw4N6o6L7g
+[instagram]: https://instagram.com/Nitishroy7033
+[linkedin]: https://www.linkedin.com/in/nitishkumar7033/
+[CLangaugeLaylist]: https://www.youtube.com/watch?v=bN-Jq5FaLfI&list=PLttsYKD2wS_a7CsSICP0mCZGhtrWAct4s&ab_channel=ArduinoandRoboticsinHindi
+
