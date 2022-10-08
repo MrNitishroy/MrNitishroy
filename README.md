@@ -33,11 +33,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://codesikhe.com/connect-mongodb-in-dotnet-rest-api-and-curd-operation-in-rest-api/)
-- [C Programming Tutorial 📖 ](https://codesikhe.com/c/)
-- [Flutter Ui Componets ](https://codesikhe.com/flutter-ui/)
-- [Java Full Notes In Pdf ](https://github.com/MrNitishroy/Java)
-- [How to make own IOT Car](https://codesikhe.com/category/iot-car/)
+- [goto statement in C](https://codesikhe.com/goto-statement-in-c/)
+- [Continue Statement in C](https://codesikhe.com/continue-statement-in-c/)
+- [break Statement in C](https://codesikhe.com/break-statement-in-c/)
+- [infinite loops in C](https://codesikhe.com/infinite-loops-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
