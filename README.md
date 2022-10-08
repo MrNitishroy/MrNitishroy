@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish Roy</h1>
 <h3 align="center">A passionate IOT Engineer and Full Stack developer from India</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJewyaeuuivsxzVBjATtuvxbEUhwZED0kqWSP1LjDNBTwze-DJvz9J7J8twlcK6rCVb4N0P6xxmSzLEsXQo7w0f6Twxk1iS2i1uKLfsmCSKGfNh6pcqUETZgec_WHbATqZYLu6C6qEzlyb9cnpqGPf5A1-YRkty8V-z7s60vUBD8rE-J4zBydlLUKM/s1920/Nitish%20roy.jpg" alt="Nitish Roy">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Fn__d1P3vBjPvMlbD2xF7RuNkQpas7C-BOHwp9-0P3Z_thKmb_y2LF9ava4tDK-oFsVxOfL2n43uZ0ecxx9rhzBP8otT74By0vUhXnO-sQcr7oHhVTc8XNJwj1ezTx00HGOXkHZBR393j1vwYqy_8HjmdajWcsT2PK9ty7lPrrDM5kXD52UPwYRz/s1936/Group%2063.png" alt="Nitish Roy">
 
 
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
