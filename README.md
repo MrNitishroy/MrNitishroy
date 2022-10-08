@@ -33,7 +33,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Getting Started with MongoDB &amp; Mongoose](https://codesikhe.com/connect-mongodb-in-dotnet-rest-api-and-curd-operation-in-rest-api/)
+- [C Programming Tutorial 📖 ](https://codesikhe.com/c/)
+- [Flutter Ui Componets ](https://codesikhe.com/flutter-ui/)
+- [Java Full Notes In Pdf ](https://github.com/MrNitishroy/Java)
+- [How to make own IOT Car](https://codesikhe.com/category/iot-car/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
