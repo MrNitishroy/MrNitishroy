@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Roy</h1>
 <h3 align="center">A passionate IOT Engineer and Full Stack developer from India</h3>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA1Z8LDPXtjAGRj-v7LHqqgjSKcXOsJOFhfMIX9WYIT_yy3U8tmLjfOnJLZD6H1-lMcU4rQs3jkOmBYqyboofETh0buueIhEArh9_GISycgVrWrd8rbELK_mDDH-W-eGxgsjGeurYLUyIFwzBFCgsQSeyKiX77cYFLd2mm38UB55XbXft7ttV9sxVw/s2560/Group%2060.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnitishroy&label=Profile%20views&color=0e75b6&style=flat" alt="mrnitishroy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://img.shields.io/twitter/follow/nitishroy7033?logo=twitter&style=for-the-badge" alt="nitishroy7033" /></a> </p>
 
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
 - 🌱 I’m currently learning **Android development and Web Development**
@@ -14,7 +12,8 @@
 - 📫 How to reach me **Mr.Nitishkrs@gmail.com**
 - 📄 Know about my experiences [https://nitishroy7033.blogspot.com/](https://nitishroy7033.blogspot.com/)
 - ⚡ I am Interested **Play Video Game , Coding, Learn New Technology**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnitishroy&label=Profile%20views&color=0e75b6&style=flat" alt="mrnitishroy" /> </p>
+<p align="left"> <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://img.shields.io/twitter/follow/nitishroy7033?logo=twitter&style=for-the-badge" alt="nitishroy7033" /></a> </p>
 ---
 
 ### 📺 Latest YouTube Videos
