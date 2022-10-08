@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IOT Engineer and Full Stack developer from India</h3>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUGMm0-0R3bKyeJqLiaoi7NAq-80ZmuT8jOblQDfOzK2zTGR_wvb4dJJ28sg7NAE9HlhbITy2BtJpjbjpwvLhuCISo_k7ejJAuqRtOBZtDyGM8pWD0Laly6e1Z-lKy2adL6Gv_Ddc1f1svHtnAycf1qUZF1RxRw9E5_MzBsmA8pgbpqJcEqfAALjGY/s1829/nitish%20roy%20trans.png" alt="Nitish Kumar">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNitishroy" alt="MrNitishroy" /></a> </p>
 
 <p align="center">
  <a href="https://marketplace.visualstudio.com/items?itemName=NitishRoy7033.Coder30" target="blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3mTHgIHj1jaKIOXIcQI_-ku-6KkPcxG2ZfB9da1FWr-VXNp3G1uGtqmtdt3SYqwFmMaPfEfTtc5qZUMklE7wrg3m_HwlhCrqoJi838WUz-EHYYLVrsVI-zAjv3gUAuH54wTQyyJftOdeUDrhN3_Yib_Dnxksg94G5wg8OUcC9otkDkKr9Zofu9FJM/s364/vs%20code%20theme.png" alt="nitishroy7033" height="30" width="200" /></a>
@@ -61,11 +61,8 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Nitishroy7033"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nitishroy7033" /></a>
-</p><br><br>
-<br>
 <p align="center">
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="center" alt="MrNitishroy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrNitishroy&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </p>
 
 ---
