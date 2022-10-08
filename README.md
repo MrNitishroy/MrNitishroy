@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Login Page in Flutter](https://codesikhe.com/login-page-in-flutter/)
 - [Know All About 5G in India](https://codesikhe.com/know-all-about-5g-in-india/)
 - [goto statement in C](https://codesikhe.com/goto-statement-in-c/)
 - [Continue Statement in C](https://codesikhe.com/continue-statement-in-c/)
-- [break Statement in C](https://codesikhe.com/break-statement-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
