@@ -6,25 +6,34 @@
 <p align="left"> <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://img.shields.io/twitter/follow/nitishroy7033?logo=twitter&style=for-the-badge" alt="nitishroy7033" /></a> </p>
 
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
-
 - 🌱 I’m currently learning **Android development and Web Development**
-
 - 👯 I’m looking to collaborate on **content creators**
-
 - 👨‍💻 All of my projects are available at [https://codesikhe.com/](https://codesikhe.com/)
-
 - 📝 I regularly write articles on [https://codesikhe.com/](https://codesikhe.com/)
-
 - 💬 Ask me about **react,flutter,dart,JavaScript**
-
 - 📫 How to reach me **Mr.Nitishkrs@gmail.com**
-
 - 📄 Know about my experiences [https://nitishroy7033.blogspot.com/](https://nitishroy7033.blogspot.com/)
-
 - ⚡ I am Interested **Play Video Game , Coding, Learn New Technology**
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Hacker Rank Problem Solution in Java - PlayList 😍 !!](https://www.youtube.com/watch?v=MDS2wTZEBls&list=PLttsYKD2wS_a9mxnaMQqr4KqIJffa32NV)
+- [C Langugae Playlist !! ❤️](https://www.youtube.com/watch?v=bN-Jq5FaLfI&list=PLttsYKD2wS_a7CsSICP0mCZGhtrWAct4s)
+- [Java Programing Playlist 🙁](https://www.youtube.com/watch?v=FZV-88TjFKQ&list=PLttsYKD2wS_bbaXZ18-3DA9hmSDM25XIm)
+- [Read Map How to Become / Read 🦒!!](https://www.youtube.com/watch?v=zUp_ATISUM4&list=PLttsYKD2wS_ZB1LOL4YwR-XiWMDyur4ez)
+- [Best Website for Student ](https://www.youtube.com/watch?v=xpenzoAhAn4&list=PLttsYKD2wS_am17S1Sxxta5l7zwRDJD04)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCSbFvHqGvxwyGsw4N6o6L7g/featured)
+
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
