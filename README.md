@@ -63,7 +63,9 @@
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Nitishroy7033"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nitishroy7033" /></a></p><br><br>
 <br>
+<p align="center">
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</p>
 
 ---
 
