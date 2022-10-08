@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate IOT Engineer and Full Stack developer from India</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0v2cSGkHfRQefwN3i54B8QsqujToKV6cp-2IWfMP17rKF9VyVPZN4FDqratbjbXfNYYq07CCl5rr5hEvSxeQ3QrSo6TqkW7w7oGxCBOGACvYjXvhmy1xw6HzkNLtq9rL7_2_Oo8s18yjmVri-ZjFXpRZbKH981JGslFwdkT06thG5Yq21GWRYukef/s1829/nitish%20roy%20trans.png" alt="Nitish Kumar">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUGMm0-0R3bKyeJqLiaoi7NAq-80ZmuT8jOblQDfOzK2zTGR_wvb4dJJ28sg7NAE9HlhbITy2BtJpjbjpwvLhuCISo_k7ejJAuqRtOBZtDyGM8pWD0Laly6e1Z-lKy2adL6Gv_Ddc1f1svHtnAycf1qUZF1RxRw9E5_MzBsmA8pgbpqJcEqfAALjGY/s1829/nitish%20roy%20trans.png" alt="Nitish Kumar">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
 
