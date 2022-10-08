@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
 
 <p align="center">
- <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3mTHgIHj1jaKIOXIcQI_-ku-6KkPcxG2ZfB9da1FWr-VXNp3G1uGtqmtdt3SYqwFmMaPfEfTtc5qZUMklE7wrg3m_HwlhCrqoJi838WUz-EHYYLVrsVI-zAjv3gUAuH54wTQyyJftOdeUDrhN3_Yib_Dnxksg94G5wg8OUcC9otkDkKr9Zofu9FJM/s364/vs%20code%20theme.png" alt="nitishroy7033" /></a>
+ <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3mTHgIHj1jaKIOXIcQI_-ku-6KkPcxG2ZfB9da1FWr-VXNp3G1uGtqmtdt3SYqwFmMaPfEfTtc5qZUMklE7wrg3m_HwlhCrqoJi838WUz-EHYYLVrsVI-zAjv3gUAuH54wTQyyJftOdeUDrhN3_Yib_Dnxksg94G5wg8OUcC9otkDkKr9Zofu9FJM/s364/vs%20code%20theme.png" alt="nitishroy7033" height="50" width="100" /></a>
  <a href="https://twitter.com/nitishroy7033" target="blank"><img src="https://img.shields.io/twitter/follow/nitishroy7033?logo=twitter&style=for-the-badge" alt="nitishroy7033" /></a>
  <img src="https://komarev.com/ghpvc/?username=mrnitishroy&label=Profile%20views&color=0e75b6&style=flat" alt="mrnitishroy" /> 
  </p>
