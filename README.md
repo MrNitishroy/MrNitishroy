@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One Dimensional Array in C](https://codesikhe.com/one-dimensional-array-in-c/)
 - [OTP Text Field in flutter](https://codesikhe.com/otp-text-field-in-flutter/)
 - [ShowCase View in flutter](https://codesikhe.com/showcase-view-in-flutter/)
 - [OnBoard Screen For Flutter](https://codesikhe.com/onboard-screen-for-flutter/)
-- [Introduction Screen In Flutter](https://codesikhe.com/introduction-screen-%ef%bf%bc-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
