@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [flutter neumorphic](https://codesikhe.com/flutter-neumorphic/)
-- [Arrays in C](https://codesikhe.com/arrays-in-c/)
-- [Login Page in Flutter](https://codesikhe.com/login-page-in-flutter/)
-- [Know All About 5G in India](https://codesikhe.com/know-all-about-5g-in-india/)
+- [OTP Text Field in flutter](https://codesikhe.com/otp-text-field-in-flutter/)
+- [ShowCase View in flutter](https://codesikhe.com/showcase-view-in-flutter/)
+- [OnBoard Screen For Flutter](https://codesikhe.com/onboard-screen-for-flutter/)
+- [Introduction Screen In Flutter](https://codesikhe.com/introduction-screen-%ef%bf%bc-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
