@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Popular Programming languages in 2022](https://codesikhe.com/most-popular-programming-languages-in-2022/)
+- [What is Git and Github | Top 5 best Features of Github](https://codesikhe.com/what-is-git-and-github-top-5-best-features-of-github/)
 - [One Dimensional Array in C](https://codesikhe.com/one-dimensional-array-in-c/)
 - [OTP Text Field in flutter](https://codesikhe.com/otp-text-field-in-flutter/)
-- [ShowCase View in flutter](https://codesikhe.com/showcase-view-in-flutter/)
-- [OnBoard Screen For Flutter](https://codesikhe.com/onboard-screen-for-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
