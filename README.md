@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
 - [Animated Splash Screen](https://codesikhe.com/animated-splash-screen/)
 - [Coding Kya Hai? Or Coding Kaise Sikhe?](https://codesikhe.com/coding-kya-hai-or-coding-kaise-sikhe/)
 - [Two Dimensional Array in C](https://codesikhe.com/two-dimensional-array-in-c/)
-- [Most Popular Programming languages in 2022](https://codesikhe.com/most-popular-programming-languages-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
