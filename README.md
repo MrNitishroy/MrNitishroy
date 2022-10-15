@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [String in C](https://codesikhe.com/string-in-c/)
 - [Flutter Page Transition Package || page change Animation](https://codesikhe.com/flutter-page-transition-package-page-change-animation/)
 - [slidable in flutter](https://codesikhe.com/slidable-in-flutter/)
 - [Page Indicator in flutter](https://codesikhe.com/page-indicator-in-flutter/)
-- [Percentage indicator in flutter](https://codesikhe.com/percentage-indicator-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
