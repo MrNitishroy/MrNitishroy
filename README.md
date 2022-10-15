@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Page Transition Package || page change Animation](https://codesikhe.com/flutter-page-transition-package-page-change-animation/)
+- [slidable in flutter](https://codesikhe.com/slidable-in-flutter/)
 - [Page Indicator in flutter](https://codesikhe.com/page-indicator-in-flutter/)
 - [Percentage indicator in flutter](https://codesikhe.com/percentage-indicator-in-flutter/)
-- [Liquid Pull To Refresh in flutter](https://codesikhe.com/liquid-pull-to-refresh-in-flutter/)
-- [Avatar Glow in glutter](https://codesikhe.com/avatar-glow-in-glutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
