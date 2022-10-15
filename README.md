@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Page Indicator in flutter](https://codesikhe.com/page-indicator-in-flutter/)
 - [Percentage indicator in flutter](https://codesikhe.com/percentage-indicator-in-flutter/)
 - [Liquid Pull To Refresh in flutter](https://codesikhe.com/liquid-pull-to-refresh-in-flutter/)
 - [Avatar Glow in glutter](https://codesikhe.com/avatar-glow-in-glutter/)
-- [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
