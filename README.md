@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Pull To Refresh in flutter](https://codesikhe.com/liquid-pull-to-refresh-in-flutter/)
+- [Avatar Glow in glutter](https://codesikhe.com/avatar-glow-in-glutter/)
 - [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
 - [Animated Splash Screen](https://codesikhe.com/animated-splash-screen/)
-- [Coding Kya Hai? Or Coding Kaise Sikhe?](https://codesikhe.com/coding-kya-hai-or-coding-kaise-sikhe/)
-- [Two Dimensional Array in C](https://codesikhe.com/two-dimensional-array-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
