@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Curved Bottom navigation in Flutter](https://codesikhe.com/curved-bottom-navigation-in-flutter/)
 - [gets&lpar;&rpar; and puts&lpar;&rpar; functions in C](https://codesikhe.com/gets-and-puts-functions-in-c/)
 - [String in C](https://codesikhe.com/string-in-c/)
 - [Flutter Page Transition Package || page change Animation](https://codesikhe.com/flutter-page-transition-package-page-change-animation/)
-- [slidable in flutter](https://codesikhe.com/slidable-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
