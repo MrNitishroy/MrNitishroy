@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Responsive ui design Code](https://codesikhe.com/flutter-responsive-ui-design-code/)
 - [String Function in C](https://codesikhe.com/string-function-in-c/)
 - [google navigation bar in flutter](https://codesikhe.com/google-navigation-bar-in-flutter/)
 - [Curved Bottom navigation in Flutter](https://codesikhe.com/curved-bottom-navigation-in-flutter/)
-- [gets&lpar;&rpar; and puts&lpar;&rpar; functions in C](https://codesikhe.com/gets-and-puts-functions-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
