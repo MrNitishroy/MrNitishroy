@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Responsive ui design Code](https://codesikhe.com/flutter-responsive-ui-design-code/)
-- [String Function in C](https://codesikhe.com/string-function-in-c/)
-- [google navigation bar in flutter](https://codesikhe.com/google-navigation-bar-in-flutter/)
-- [Curved Bottom navigation in Flutter](https://codesikhe.com/curved-bottom-navigation-in-flutter/)
+- [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
+- [Animated Splash Screen](https://codesikhe.com/animated-splash-screen/)
+- [Coding Kya Hai? Or Coding Kaise Sikhe?](https://codesikhe.com/coding-kya-hai-or-coding-kaise-sikhe/)
+- [Two Dimensional Array in C](https://codesikhe.com/two-dimensional-array-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
