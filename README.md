@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Some Config File Example](https://codesikhe.com/flutter-some-config-file-example/)
-- [How To use Map in Flutter](https://codesikhe.com/how-to-use-map-in-flutter/)
-- [Tab Bar in Flutter](https://codesikhe.com/tab-bar-in-flutter/)
-- [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
+- [How to Manage State in Flutter](https://codesikhe.com/how-to-manage-state-in-flutter/)
+- [What is Widgets in Flutter any there types](https://codesikhe.com/what-is-widgets-in-flutter-any-there-types/)
+- [Run First App in flutter](https://codesikhe.com/run-first-app-in-flutter/)
+- [Create Frist App in Flutter](https://codesikhe.com/create-frist-app-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
