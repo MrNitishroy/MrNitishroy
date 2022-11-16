@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Some Config File Example](https://codesikhe.com/flutter-some-config-file-example/)
+- [How To use Map in Flutter](https://codesikhe.com/how-to-use-map-in-flutter/)
+- [Tab Bar in Flutter](https://codesikhe.com/tab-bar-in-flutter/)
 - [hello world program in c](https://codesikhe.com/hello-world-program-in-c/)
-- [Animated Splash Screen](https://codesikhe.com/animated-splash-screen/)
-- [Coding Kya Hai? Or Coding Kaise Sikhe?](https://codesikhe.com/coding-kya-hai-or-coding-kaise-sikhe/)
-- [Two Dimensional Array in C](https://codesikhe.com/two-dimensional-array-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
