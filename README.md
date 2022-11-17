@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AppBar Drawer in Flutter](https://codesikhe.com/appbar-drawer-in-flutter/)
 - [Navigation and Routing in flutter](https://codesikhe.com/navigation-and-routing-in-flutter/)
 - [Gestures in flutter](https://codesikhe.com/gestures-in-flutter/)
 - [How to Manage State in Flutter](https://codesikhe.com/how-to-manage-state-in-flutter/)
-- [What is Widgets in Flutter any there types](https://codesikhe.com/what-is-widgets-in-flutter-any-there-types/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
