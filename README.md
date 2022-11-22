@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [String In c](https://codesikhe.com/string-in-c/)
 - [Functions in C Programming : Recursive &amp; Inline](https://codesikhe.com/functions-in-c-programming-recursive-inline/)
 - [What is Aadhaar](https://codesikhe.com/what-is-aadhaar/)
 - [What is Opps in Programming ? Hand Made notes](https://codesikhe.com/what-is-opps-in-programming-hand-made-notes/)
-- [How to create a Flutter Appbar with Actions](https://codesikhe.com/how-to-create-a-flutter-appbar-with-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
