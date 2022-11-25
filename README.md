@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Computer? it’s Types &amp; Features](https://codesikhe.com/what-is-computer-its-types-features/)
+- [Top 100 Java Interview Questions and Answers](https://codesikhe.com/top-100-java-interview-questions-and-answers/)
 - [Deference between React js vs Angular js](https://codesikhe.com/deference-between-react-js-vs-angular-js/)
 - [What is API, Rest API and RESTful API](https://codesikhe.com/what-is-api-rest-api-and-restful-api/)
-- [PVC Aadhar Card Kaise Order Kare ?](https://codesikhe.com/pvc-aadhar-card-kaise-order-kare/)
-- [String In c](https://codesikhe.com/string-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
