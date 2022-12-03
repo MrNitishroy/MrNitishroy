@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is flutter? why flutter good for 2024](https://codesikhe.com/what-is-flutter-why-flutter-good-for-2024/)
 - [String Input and Output In C](https://codesikhe.com/string-input-and-output-in-c/)
 - [What is Computer? it’s Types &amp; Features](https://codesikhe.com/what-is-computer-its-types-features/)
 - [Top 100 Java Interview Questions and Answers](https://codesikhe.com/top-100-java-interview-questions-and-answers/)
-- [Deference between React js vs Angular js](https://codesikhe.com/deference-between-react-js-vs-angular-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
