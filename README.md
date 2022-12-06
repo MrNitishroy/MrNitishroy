@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [20 best Java Programs Example](https://codesikhe.com/20-best-java-programs-example/)
 - [Top 5 best free software to make windows look better](https://codesikhe.com/top-5-best-free-software-to-make-windows-look-better/)
 - [Announcement Banner Navbar in React Native](https://codesikhe.com/announcement-banner-navbar-in-react-native/)
 - [What is flutter? why flutter good for 2024](https://codesikhe.com/what-is-flutter-why-flutter-good-for-2024/)
-- [String Input and Output In C](https://codesikhe.com/string-input-and-output-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
