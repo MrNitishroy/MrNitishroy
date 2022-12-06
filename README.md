@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is java Full Information About Java?](https://codesikhe.com/what-is-java-full-information-about-java/)
 - [20 best Java Programs Example](https://codesikhe.com/20-best-java-programs-example/)
 - [Top 5 best free software to make windows look better](https://codesikhe.com/top-5-best-free-software-to-make-windows-look-better/)
 - [Announcement Banner Navbar in React Native](https://codesikhe.com/announcement-banner-navbar-in-react-native/)
-- [What is flutter? why flutter good for 2024](https://codesikhe.com/what-is-flutter-why-flutter-good-for-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
