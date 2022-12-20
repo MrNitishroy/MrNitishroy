@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 vs code extensions for coders 2023](https://codesikhe.com/top-10-vs-code-extensions-for-coders-2023/)
-- [Top 10 best note taking app for laptop in 2023](https://codesikhe.com/top-10-best-note-taking-app-for-laptop-in-2023/)
-- [What is java Full Information About Java?](https://codesikhe.com/what-is-java-full-information-about-java/)
-- [20 best Java Programs Example](https://codesikhe.com/20-best-java-programs-example/)
+- [How to create a Flutter Appbar with Actions](https://codesikhe.com/how-to-create-a-flutter-appbar-with-actions-2/)
+- [Flutter Selectable text](https://codesikhe.com/flutter-selectable-text-2/)
+- [App drawer in flutter](https://codesikhe.com/app-drawer-in-flutter/)
+- [Flutter Some Config File](https://codesikhe.com/flutter-some-config-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
