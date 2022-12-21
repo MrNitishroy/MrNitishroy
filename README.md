@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculator using HTML, CSS and JavaScript](https://codesikhe.com/calculator-using-html-css-and-javascript/)
+- [How to Fetch data from API in React js](https://codesikhe.com/how-to-fetch-data-from-api-in-react-js/)
 - [How to Change Dark mode and light mode in JavaScript](https://codesikhe.com/how-to-change-dark-mode-and-light-mode-in-javascript/)
 - [How to create a Flutter Appbar with Actions](https://codesikhe.com/how-to-create-a-flutter-appbar-with-actions-2/)
-- [Flutter Selectable text](https://codesikhe.com/flutter-selectable-text-2/)
-- [App drawer in flutter](https://codesikhe.com/app-drawer-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
