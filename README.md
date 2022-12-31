@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [how to use ant design with react js](https://codesikhe.com/how-to-use-ant-design-with-react-js/)
 - [Rest Web API With dotnet with MongoDB Full Example](https://codesikhe.com/rest-web-api-with-dotnet-with-mongodb-full-example/)
 - [Calculator using HTML, CSS and JavaScript](https://codesikhe.com/calculator-using-html-css-and-javascript/)
 - [How to Fetch data from API in React js](https://codesikhe.com/how-to-fetch-data-from-api-in-react-js/)
-- [How to Change Dark mode and light mode in JavaScript](https://codesikhe.com/how-to-change-dark-mode-and-light-mode-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
