@@ -88,3 +88,29 @@
 
 </details>
 
+
+<details>
+  <summary>:zap: neomorphism  css</summary>
+
+ <pre>
+<code>
+body{
+    background: #ebecf0;
+}
+.morph{
+
+    border: 5px solid transparent;
+    background :linear-gradient(160deg,#f0f1f4 0%, #e4e6eb 100%);
+    box-shadow: -3px -3px 6px 2px #ffffff, 5px 5px 8px 0px rgba(0,0,0,0.17),1px 2px 2px 0px rgba(0,0,0,0.1);
+    transition: 0.1s;
+  }
+.morph:active,.morph:focus{
+    border: 5px solid #fafafa;
+    outline: none;
+    box-shadow: inset -3px -3px 5px 0px #ffffff,-1px -1px 4px 0px #ffffff,inset 5px 5px 10px 0px rgba(0,0,0,-0.12),inset 2px 2px 3px 0px rgba(0,0,0,0.07),1px 2px 3px 0px rgba(0,0,0,0.1);
+}
+</code>
+</pre>
+
+
+</details>
