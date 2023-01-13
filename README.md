@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SingleChildScrollView in Flutter](https://codesikhe.com/singlechildscrollview-in-flutter/)
+- [Button in flutter](https://codesikhe.com/button-in-flutter/)
 - [how to use ant design with react js](https://codesikhe.com/how-to-use-ant-design-with-react-js/)
 - [Rest Web API With dotnet with MongoDB Full Example](https://codesikhe.com/rest-web-api-with-dotnet-with-mongodb-full-example/)
-- [Calculator using HTML, CSS and JavaScript](https://codesikhe.com/calculator-using-html-css-and-javascript/)
-- [How to Fetch data from API in React js](https://codesikhe.com/how-to-fetch-data-from-api-in-react-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
