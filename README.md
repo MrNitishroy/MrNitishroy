@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Flutter Bank Dashboard UI](https://codesikhe.com/responsive-flutter-bank-dashboard-ui/)
+- [Drawer Flutter responsive Mobile and Web](https://codesikhe.com/drawer-flutter-responsive-mobile-and-web/)
+- [Getx page router in flutter](https://codesikhe.com/getx-page-router-in-flutter/)
+- [Responsive Flutter UI Code](https://codesikhe.com/responsive-flutter-bank-dashboard-ui/)
 - [5 Fantastic websites every developer must know | Code sikhe](https://codesikhe.com/5-fantastic-websites-every-developer-must-know-code-sikhe/)
-- [Flutter Signin or Signup Page](https://codesikhe.com/flutter-signin-or-signup-page/)
-- [ListView in flutter](https://codesikhe.com/listview-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
