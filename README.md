@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Change Language in Flutter | Getx in flutter](https://codesikhe.com/how-to-change-language-in-flutter-getx-in-flutter/)
 - [Skip Login page in flutter | sharepreference in flutter](https://codesikhe.com/skip-login-page-in-flutter-sharepreference-in-flutter/)
 - [Drawer Flutter responsive Mobile and Web](https://codesikhe.com/drawer-flutter-responsive-mobile-and-web/)
 - [Getx page router in flutter](https://codesikhe.com/getx-page-router-in-flutter/)
-- [Responsive Flutter UI Code](https://codesikhe.com/responsive-flutter-bank-dashboard-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
