@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter : Text To Speech in Flutter](https://codesikhe.com/flutter-text-to-speech-in-flutter/)
 - [Calculator app in Flutter](https://codesikhe.com/calculator-app-in-flutter/)
 - [Api get in flutter with Getx](https://codesikhe.com/api-get-in-flutter-with-getx/)
 - [How to Change Language in Flutter | Getx in flutter](https://codesikhe.com/how-to-change-language-in-flutter-getx-in-flutter/)
-- [Skip Login page in flutter | sharepreference in flutter](https://codesikhe.com/skip-login-page-in-flutter-sharepreference-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
