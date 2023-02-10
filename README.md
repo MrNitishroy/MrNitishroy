@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Get data from api in flutter with using Getx Part 2](https://codesikhe.com/how-to-get-data-from-api-in-flutter-with-using-getx-part-2/)
 - [Flutter : Text To Speech in Flutter](https://codesikhe.com/flutter-text-to-speech-in-flutter/)
 - [Calculator app in Flutter](https://codesikhe.com/calculator-app-in-flutter/)
 - [Api get in flutter with Getx](https://codesikhe.com/api-get-in-flutter-with-getx/)
-- [How to Change Language in Flutter | Getx in flutter](https://codesikhe.com/how-to-change-language-in-flutter-getx-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
