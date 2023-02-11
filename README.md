@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Getx : Snackbar in Flutter Part : 01 | Getx Flutter](https://codesikhe.com/flutter-getx-snackbar-in-flutter-part-01-getx-flutter/)
+- [Flutter Getx : Introduction of Getx Part : 01  | Getx Flutter](https://codesikhe.com/flutter-getx-introduction-of-getx-part-01-getx-flutter/)
 - [How to Get data from api in flutter with using Getx Part 2](https://codesikhe.com/how-to-get-data-from-api-in-flutter-with-using-getx-part-2/)
 - [Flutter : Text To Speech in Flutter](https://codesikhe.com/flutter-text-to-speech-in-flutter/)
-- [Calculator app in Flutter](https://codesikhe.com/calculator-app-in-flutter/)
-- [Api get in flutter with Getx](https://codesikhe.com/api-get-in-flutter-with-getx/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
