@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Post Api with Getx | How to use post Api method in flutter with the help of Getx](https://codesikhe.com/flutter-post-api-with-getx-how-to-use-post-api-method-in-flutter-with-the-help-of-getx/)
 - [Flutter Getx : Snackbar in Flutter Part : 01 | Getx Flutter](https://codesikhe.com/flutter-getx-snackbar-in-flutter-part-01-getx-flutter/)
 - [Flutter Getx : Introduction of Getx Part : 01  | Getx Flutter](https://codesikhe.com/flutter-getx-introduction-of-getx-part-01-getx-flutter/)
 - [How to Get data from api in flutter with using Getx Part 2](https://codesikhe.com/how-to-get-data-from-api-in-flutter-with-using-getx-part-2/)
-- [Flutter : Text To Speech in Flutter](https://codesikhe.com/flutter-text-to-speech-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
