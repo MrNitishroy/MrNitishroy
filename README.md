@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Todo App with Api With Getx](https://codesikhe.com/flutter-todo-app-with-api-with-getx/)
 - [Flutter search bar – How to make a search bar in flutter](https://codesikhe.com/flutter-search-bar-how-to-make-a-search-bar-in-flutter/)
 - [Flutter Post Api with Getx | How to use post Api method in flutter with the help of Getx](https://codesikhe.com/flutter-post-api-with-getx-how-to-use-post-api-method-in-flutter-with-the-help-of-getx/)
 - [Flutter Getx : Snackbar in Flutter Part : 01 | Getx Flutter](https://codesikhe.com/flutter-getx-snackbar-in-flutter-part-01-getx-flutter/)
-- [Flutter Getx : Introduction of Getx Part : 01  | Getx Flutter](https://codesikhe.com/flutter-getx-introduction-of-getx-part-01-getx-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
