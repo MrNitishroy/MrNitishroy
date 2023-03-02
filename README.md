@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GNav bar in flutter | Bottom navigation bar in flutter](https://codesikhe.com/gnav-bar-in-flutter-bottom-navigation-bar-in-flutter/)
 - [Loading Animation in flutter | Api Loading Animation in flutter](https://codesikhe.com/loading-animation-in-flutter-api-loading-animation-in-flutter/)
 - [Delete api in flutter with Getx Part : 13 | Flutter hero | Getx Flutter](https://codesikhe.com/delete-api-in-flutter-with-getx-part-13-flutter-hero-getx-flutter/)
 - [Post api in flutter with Getx Part : 12 | Flutter hero | Getx Flutter](https://codesikhe.com/post-api-in-flutter-with-getx-part-12-flutter-hero-getx-flutter/)
-- [Get api in flutter with Getx Part : 11 | Flutter hero | Getx Flutter, Flutter Getx](https://codesikhe.com/get-api-in-flutter-with-getx-part-11-flutter-hero-getx-flutter-flutter-getx/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
