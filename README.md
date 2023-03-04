@@ -38,10 +38,10 @@
 
 ### 🌍 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Theme Change in flutter with Getx](https://codesikhe.com/theme-change-in-flutter-with-getx/)
 - [How to connect Nodemcu with Flutter app](https://codesikhe.com/how-to-connect-nodemcu-with-flutter-app/)
 - [Nodemcu connect with wifi | Esp8266 with wifi connection](https://codesikhe.com/nodemcu-connect-with-wifi-esp8266-with-wifi-connection/)
 - [GNav bar in flutter | Bottom navigation bar in flutter](https://codesikhe.com/gnav-bar-in-flutter-bottom-navigation-bar-in-flutter/)
-- [Loading Animation in flutter | Api Loading Animation in flutter](https://codesikhe.com/loading-animation-in-flutter-api-loading-animation-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
