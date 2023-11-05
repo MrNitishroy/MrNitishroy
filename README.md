@@ -25,14 +25,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hacker Rank Problem Solution in Java - PlayList 😍 !!](https://www.youtube.com/watch?v=MDS2wTZEBls&list=PLttsYKD2wS_a9mxnaMQqr4KqIJffa32NV)
-- [C Langugae Playlist !! ❤️](https://www.youtube.com/watch?v=bN-Jq5FaLfI&list=PLttsYKD2wS_a7CsSICP0mCZGhtrWAct4s)
-- [Java Programing Playlist 🙁](https://www.youtube.com/watch?v=FZV-88TjFKQ&list=PLttsYKD2wS_bbaXZ18-3DA9hmSDM25XIm)
-- [Read Map How to Become / Read 🦒!!](https://www.youtube.com/watch?v=zUp_ATISUM4&list=PLttsYKD2wS_ZB1LOL4YwR-XiWMDyur4ez)
-- [Best Website for Student ](https://www.youtube.com/watch?v=xpenzoAhAn4&list=PLttsYKD2wS_am17S1Sxxta5l7zwRDJD04)
+- [Flutter Master Course for Beginner - PlayList 😍 !!](https://www.youtube.com/watch?v=8O4fFDa-ZBE&list=PLe9ZTrJrS7SkE7MsmiAYY4xR4V6Gzf1Cu&pp=gAQBiAQB)
+- [E-Book Store app !! ❤️](https://www.youtube.com/watch?v=4wOf50R2P9o&t=5698s)
+- [Music Player app In Flutter With Getx 🙁](https://www.youtube.com/watch?v=O9sh2HGScwk&t=5s)
+- [Smart Car Parking Application 🦒!!](https://www.youtube.com/watch?v=yNqj18WQ4s8)
+- [BMI Calculator in Flutter ](https://www.youtube.com/watch?v=yNqj18WQ4s8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCSbFvHqGvxwyGsw4N6o6L7g/featured)
+➡️ [more videos...](https://www.youtube.com/@flutterhero)
 
 ---
 
