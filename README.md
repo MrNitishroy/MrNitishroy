@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
-<h3 align="center">A passionate android developer from India</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUGMm0-0R3bKyeJqLiaoi7NAq-80ZmuT8jOblQDfOzK2zTGR_wvb4dJJ28sg7NAE9HlhbITy2BtJpjbjpwvLhuCISo_k7ejJAuqRtOBZtDyGM8pWD0Laly6e1Z-lKy2adL6Gv_Ddc1f1svHtnAycf1qUZF1RxRw9E5_MzBsmA8pgbpqJcEqfAALjGY/s1829/nitish%20roy%20trans.png" alt="Nitish Kumar">
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNitishroy" alt="MrNitishroy" /></a> </p>
 <h2 align="left">Hi 👋! My name is Nitish Kumar and I'm a Software Developer, from Bhopal, visit : devhq.in</h2>
 
 ###
