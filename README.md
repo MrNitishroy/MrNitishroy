@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nitish Kumar and I'm a Software Developer, from Bhopal, visit : devhq.in</h2>
+<h2 align="left">Hi 👋! My name is Nitish Kumar and I'm a Software Developer, from Bangalore, visit : devhq.in</h2>
 
 ###
 
