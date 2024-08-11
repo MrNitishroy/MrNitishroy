@@ -1,85 +1,62 @@
-<h2 align="left">Hi 👋! My name is Nitish Kumar and I'm a Software Developer, from Bangalore, visit : devhq.in</h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Nitish Kumar</strong></samp></h2>
+<h3 align='center'><strong><a href="https://mrnitishroy.github.io/" target="_blank"> Portfolio 🌐</a> <a href="https://devhq.in" target="_blank"> Devhq.in🌏</a>   <a href="https://www.youtube.com/@flutterhero" target="_blank"> Youtube 📽️</a> </strong></h3>
 
-###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Nitish%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black) ](https://www.linkedin.com/in/ahmad-alsawalqeh/)[![Mail](https://img.shields.io/badge/Gmail-Nitishr833@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Nitishr833@hotmail.com) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCbgU4H2YQVZUqQmhZXKpfQ)
 
-<br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNitishroy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrNitishroy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="left" height="190" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"/>
+<span align="left"> 👨‍💻 Hi, I'm <strong>Nitish Kumar</strong></span><br/>
+<span align="left">🎖️ Flutter Developer </span><br/>
+<span align="left">🌏 Full Stack Web Developer ( MERN, Dot net )</span>
+<br/>
+<span align="left">❤️ 3D Animation Maker ( Blender )</span>
+<br/>
+<span align="left">🛠️ UI/UX Design ( Figma, Adobe DX, Canva)</span>
+<br/>
+<span align="left">📽️ Content Creator ( Youtube , Wordpress )</span>
+<br/>
+<br/>
 
-###
 
-<img align="left" height="170" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"  />
+<p align="center">Flutter Developer | Full-stack Developer | Node/React Developer | .NET Developer</p>
 
-###
+<p align="left">
+  📫 I am passionate about learning more about technology and life. I love developing web scripts and static websites. As a self-taught software developer and an unstoppable learner, I have evolved into a Full Stack JavaScript developer, enjoying working with cutting-edge tools and technologies.
+</p>
 
-<h3 align="left">⭐ Hi, I'm Nitish Kumar,</h3>
+<p align="left">
+  I specialize in <strong>web development</strong>, utilizing various <strong>tools, frameworks, and libraries</strong> for both frontend and backend. I pay <em>close attention to detail</em> to deliver the best products.
+</p>
+<p align="left">
+  I have a solid understanding of Android development and web development. I am proficient in Flutter, React.js, JavaScript, .NET Web API, and all aspects of full-stack development.
+</p>
 
-###
 
-<p align="left">I am a Software engineer and Youtuber my Channel name is Flutter Hero and I share my skills and experience with my friends.</p>
+💻 **Languages and Tools:** 🛠️<br>
 
-###
+![Git](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=339AF0&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)  ![Visual Studio Code](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&labelColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff) ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff) ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff) ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger) ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6) ![Windows](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff&labelColor=0078D6)
 
-<br clear="both">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
+🧐 **Knowledge of:**<br>
 
-###
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Flutter Developer`, `Android Developer`, `IOS App`, `Authentication`, `Firebase auth structures and algorithms`, `Firebase Database`, `Mongo db`, `3D Model`, `Animation`, `Dot Net Dev`, `AWS`, `Video editor`, `Content creator`, `Game Dev` ,  `State Management ( Getx , provider, Bloc )`
 
-<div align="left">
-  <a href="https://www.youtube.com/@flutterhero" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/flutterheroyt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/invite/GUw8DpzJwz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="Nitishr833@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mrnitishkumar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonwebservices&labelColor=000000) ![Netlify](https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress&labelColor=000000) ![Netlify](https://img.shields.io/badge/-Blogger-000000?style=flat&logo=blogger&labelColor=000000)
+
+
+
+📚 **Working on:** <br>
+
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff) ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000) ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+
+
+🤓 **Interested:** <br>
+
+![React Native](https://img.shields.io/badge/-React%20js-000000?style=flat&logo=react&labelColor=000000) ![PHP](https://img.shields.io/badge/-VIdeo%20Game-000000?style=flat&logo=youtubegaming&logoColor=5466b8&labelColor=ffffff)
+
 
 ###
 
